@@ -36,10 +36,7 @@ Rotate the resized frame (180°) and display it along with the normal frames.
 Stop the webcam and close all windows when the user presses ‘q’.
 <br>
 
-## Program
 
-### Developed By:Kannan N
-### Register No: 212223230097
 
 
 
